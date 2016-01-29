@@ -1,6 +1,8 @@
 # testprojectairhorn
-check if airhorn can be served with https from subsite ?
 
-Copy of original airhorn-data
+Used to check, wheater "airhorn" can be served with https from subsite ?
+in gh-pages of a github.site
+
+Copy of original airhorn-data (google.io)
 
 
